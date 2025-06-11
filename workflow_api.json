@@ -35,7 +35,7 @@
     },
     "class_type": "CheckpointLoaderSimple",
     "_meta": {
-      "title": "Load Checkpoint"
+      "title": "チェックポイントを読み込む"
     }
   },
   "5": {
@@ -46,7 +46,7 @@
     },
     "class_type": "EmptyLatentImage",
     "_meta": {
-      "title": "Empty Latent Image"
+      "title": "空の潜在画像"
     }
   },
   "6": {
@@ -88,7 +88,7 @@
     },
     "class_type": "VAEDecode",
     "_meta": {
-      "title": "VAE Decode"
+      "title": "VAEデコード"
     }
   },
   "10": {
