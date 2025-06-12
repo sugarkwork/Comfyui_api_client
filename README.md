@@ -16,7 +16,7 @@ A Python client library for interacting with ComfyUI via its API. Supports both 
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip install comfyui-workflow-client
 ```
 
 ### Requirements

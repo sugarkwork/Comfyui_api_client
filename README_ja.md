@@ -16,7 +16,7 @@ ComfyUI API との連携を行うPythonクライアントライブラリです�
 ## インストール
 
 ```bash
-pip install -r requirements.txt
+pip install comfyui-workflow-client
 ```
 
 ### 依存関係
